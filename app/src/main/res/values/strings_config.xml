@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="conf_packageName" translatable="false">com.genonbeta.TrebleShot</string>
+    <string name="conf_packageName" translatable="false">com.shaan_snaps_apps.shaan_share</string>
     <string name="conf_licence" formatted="false" translatable="false">
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by

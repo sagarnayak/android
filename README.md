@@ -2,7 +2,7 @@
 Send and receive files over available connections. [FAQ](https://github.com/genonbeta/TrebleShot/blob/master/FAQ.md).
 
 ## Get it on
-[<img src="https://f-droid.org/badge/get-it-on.png" width="230">](https://f-droid.org/packages/com.genonbeta.TrebleShot/) [<img src="assets/google-play-badge.png" width="230">](https://play.google.com/store/apps/details?id=com.genonbeta.TrebleShot)
+[<img src="https://f-droid.org/badge/get-it-on.png" width="230">](https://f-droid.org/packages/com.shaan_snaps_apps.shaan_share/) [<img src="assets/google-play-badge.png" width="230">](https://play.google.com/store/apps/details?id=com.shaan_snaps_apps.shaan_share)
 
 ## Main features
 * Pause, resume and reconnect transfers

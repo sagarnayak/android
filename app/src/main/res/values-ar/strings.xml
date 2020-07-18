@@ -202,7 +202,7 @@
     <string name="text_usedConnection">الاتصال المستخدم</string>
     <string name="text_flagRemoved">مزال</string>
     <string name="butn_copyToClipboard">نسخ إلى الحافظة</string>
-    <string name="text_communicationServiceRunning">تريبليشوت يمكن مشاركة الملفات الآن</string>
+    <string name="text_communicationServiceRunning">شان حصة يمكن مشاركة الملفات الآن</string>
     <string name="text_communicationServiceStop">انقر لإنهاء جلسة العمل</string>
     <string name="text_remainingTime">الوقت المتبقي %s</string>
     <string name="butn_showFiles">إظهار الملفات</string>

@@ -200,7 +200,7 @@
     <string name="text_usedConnection">Connessione Utilizzata</string>
     <string name="text_flagRemoved">Rimosso</string>
     <string name="butn_copyToClipboard">Copia negli appunti</string>
-    <string name="text_communicationServiceRunning">TrebleShot può condividere file</string>
+    <string name="text_communicationServiceRunning">Shaan Share può condividere file</string>
     <string name="text_communicationServiceStop">Premi per terminare la sessione</string>
     <string name="butn_showFiles">Mostra File</string>
     <string name="butn_trustZoneDevice">Imposta come dispositivo TrustZone</string>

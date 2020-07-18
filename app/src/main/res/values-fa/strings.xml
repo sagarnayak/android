@@ -191,7 +191,7 @@
     <string name="text_usedConnection">اتصال مورد استفاده</string>
     <string name="text_flagRemoved">حذف شده</string>
     <string name="butn_copyToClipboard">کپی در حافظه نهان</string>
-    <string name="text_communicationServiceRunning">اکنون TrebleShot می‌تواند پرونده‌ها را هم‌رسانی کند</string>
+    <string name="text_communicationServiceRunning">اکنون Shaan Share می‌تواند پرونده‌ها را هم‌رسانی کند</string>
     <string name="text_communicationServiceStop">برای اتمام جلسه، لمس کنید</string>
     <string name="butn_showFiles">نمایش پرونده‌ها</string>
     <string name="butn_trustZoneDevice">تنظیم به عنوان دستگاه منطقه‌مطمئن</string>

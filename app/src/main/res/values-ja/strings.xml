@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="text_appName">TrebleShot</string>
+    <string name="text_appName">Shaan Share</string>
     <string name="text_navigationDrawerOpen">ナビゲーションドロワーを開く</string>
     <string name="text_navigationDrawerClose">ナビゲーションドロワーを閉じる</string>
     <string name="text_preferences">設定</string>
@@ -213,7 +213,7 @@
     <string name="text_requestPermissionStorage">ストレージの権限</string>
     <string name="text_requestPermissionReadPhoneState">端末の状態を読み取る権限</string>
     <string name="text_mediaDirectory">メディアディレクトリ</string>
-    <string name="text_communicationServiceRunning">TrebleShotはファイルシェア可能</string>
+    <string name="text_communicationServiceRunning">Shaan Shareはファイルシェア可能</string>
     <string name="text_communicationServiceStop">押してセッション終了</string>
     <string name="butn_showFiles">ファイルを表示</string>
     <string name="text_remainingTime">残り %s</string>

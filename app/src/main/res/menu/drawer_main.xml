@@ -15,7 +15,8 @@
             android:id="@+id/menu_activity_main_web_share"
             android:icon="@drawable/ic_web_white_24dp"
             android:orderInCategory="11"
-            android:title="@string/butn_webShare" />
+            android:title="@string/butn_webShare"
+            android:visible="false" />
 
         <item
             android:id="@+id/menu_activity_main_send_application"
@@ -40,7 +41,8 @@
             android:id="@+id/menu_activity_main_about"
             android:icon="@drawable/ic_info_white_24dp"
             android:orderInCategory="13"
-            android:title="@string/text_about" />
+            android:title="@string/text_about"
+            android:visible="false" />
 
         <item
             android:id="@+id/menu_activity_main_exit"
@@ -64,7 +66,8 @@
             android:id="@+id/menu_activity_feedback"
             android:icon="@drawable/ic_email_white_24dp"
             android:orderInCategory="16"
-            android:title="@string/butn_feedbackContact" />
+            android:title="@string/butn_feedbackContact"
+            android:visible="false" />
 
         <item
             android:id="@+id/menu_activity_main_donate"
@@ -78,6 +81,11 @@
             android:orderInCategory="18"
             app:actionLayout="@layout/layout_main_navigationview_footer"
             tools:ignore="MenuTitle" />
+
+        <item
+            android:orderInCategory="19"
+            android:title="A Product by Shaan Snaps"
+            android:visible="true" />
 
     </group>
 </menu>

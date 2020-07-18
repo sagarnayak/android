@@ -188,7 +188,7 @@
     <string name="text_usedConnection">Conexão utilizada</string>
     <string name="text_flagRemoved">Removido</string>
     <string name="butn_copyToClipboard">Copiar para área de transferência</string>
-    <string name="text_communicationServiceRunning">O TrebleShot pode enviar ficheiros agora</string>
+    <string name="text_communicationServiceRunning">O Shaan Share pode enviar ficheiros agora</string>
     <string name="text_communicationServiceStop">Toque para terminar a sessão</string>
     <string name="text_remainingTime">Tempo restante estimado %s</string>
     <string name="butn_showFiles">Mostrar ficheiros</string>

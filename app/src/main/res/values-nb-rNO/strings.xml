@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="text_appName">TrebleShot</string>
+    <string name="text_appName">Shaan Share</string>
     <string name="text_navigationDrawerOpen">Åpne navigasjonsskuff</string>
     <string name="text_navigationDrawerClose">Lukk navigasjonsskuff</string>
     <string name="text_preferences">Innstillinger</string>
@@ -226,7 +226,7 @@
     <string name="text_usedConnection">Brukt tilkobling</string>
     <string name="text_flagRemoved">Fjernet</string>
     <string name="butn_copyToClipboard">Kopier til utklippstavle</string>
-    <string name="text_communicationServiceRunning">TrebleShot kan dele filer nå</string>
+    <string name="text_communicationServiceRunning">Shaan Share kan dele filer nå</string>
     <string name="text_communicationServiceStop">Trykk for å sluttføre økt</string>
     <string name="butn_showFiles">Vis filer</string>
     <string name="butn_trustZoneDevice">Sett som TrustZone-enhet</string>

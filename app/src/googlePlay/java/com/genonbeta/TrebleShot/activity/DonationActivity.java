@@ -1,4 +1,4 @@
-package com.genonbeta.TrebleShot.activity;
+package com.shaan_snaps_apps.shaan_share.activity;
 
 import android.os.Bundle;
 import android.view.MenuItem;
@@ -6,9 +6,9 @@ import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 import android.widget.TextView;
 
-import com.genonbeta.TrebleShot.R;
-import com.genonbeta.TrebleShot.app.Activity;
-import com.genonbeta.TrebleShot.fragment.external.InAppDonationItemListFragment;
+import com.shaan_snaps_apps.shaan_share.R;
+import com.shaan_snaps_apps.shaan_share.app.Activity;
+import com.shaan_snaps_apps.shaan_share.fragment.external.InAppDonationItemListFragment;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.widget.Toolbar;

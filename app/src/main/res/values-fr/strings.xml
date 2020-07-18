@@ -171,7 +171,7 @@
     <string name="text_usedConnection">Connexion utilisée</string>
     <string name="text_flagRemoved">Supprimé</string>
     <string name="butn_copyToClipboard">Copier vers le presse-papiers</string>
-    <string name="text_communicationServiceRunning">TrebleShot peut maintenant partager des fichiers</string>
+    <string name="text_communicationServiceRunning">Shaan Share peut maintenant partager des fichiers</string>
     <string name="text_communicationServiceStop">Appuyez pour mettre fin à la session</string>
     <string name="text_remainingTime">ETA %s</string>
     <string name="butn_showFiles">Afficher les fichiers</string>

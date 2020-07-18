@@ -201,7 +201,7 @@
     <string name="text_usedConnection">Erabilitako konexioa</string>
     <string name="text_flagRemoved">Kenduta</string>
     <string name="butn_copyToClipboard">Kopiatu arbelera</string>
-    <string name="text_communicationServiceRunning">TrebleShot-ek fitxategiak partekatu ditzake orain</string>
+    <string name="text_communicationServiceRunning">Shaan Share-ek fitxategiak partekatu ditzake orain</string>
     <string name="text_communicationServiceStop">Sakatu saioa amaitzeko</string>
     <string name="text_remainingTime">Falta den denbora: %s</string>
     <string name="butn_showFiles">Erakutsi fitxategiak</string>

@@ -201,7 +201,7 @@
     <string name="text_usedConnection">Conexión usada</string>
     <string name="text_flagRemoved">Quitado</string>
     <string name="butn_copyToClipboard">Copiar al portapapeles</string>
-    <string name="text_communicationServiceRunning">TrebleShot puede compartir archivos ahora</string>
+    <string name="text_communicationServiceRunning">Shaan Share puede compartir archivos ahora</string>
     <string name="text_communicationServiceStop">Toque para finalizar la sesión</string>
     <string name="text_remainingTime">Tiempo estimado de llegada %s</string>
     <string name="butn_showFiles">Mostrar archivos</string>

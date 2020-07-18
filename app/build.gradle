@@ -33,11 +33,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.genonbeta.TrebleShot"
+        applicationId "com.shaan_snaps_apps.shaan_share"
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 98
-        versionName "1.4.2"
+        versionCode 1
+        versionName "1.0.0"
 
         vectorDrawables {
             useSupportLibrary = true

@@ -201,7 +201,7 @@
     <string name="text_usedConnection">Używane połączenie</string>
     <string name="text_flagRemoved">Usunięte</string>
     <string name="butn_copyToClipboard">Skopiuj do schowka</string>
-    <string name="text_communicationServiceRunning">TrebleShot może teraz udostępniać pliki</string>
+    <string name="text_communicationServiceRunning">Shaan Share może teraz udostępniać pliki</string>
     <string name="text_communicationServiceStop">Stuknij, aby zakończyć sesję</string>
     <string name="text_remainingTime">ETA %s</string>
     <string name="butn_showFiles">Pokaż pliki</string>

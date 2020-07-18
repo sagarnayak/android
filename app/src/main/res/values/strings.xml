@@ -7,7 +7,7 @@
     text_ : any kind of text that doesn't belong to the prefixes above
     mode_ : these are not actual text strings. They illustrate more than one text items together and possibly are not translatable
 --><resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="text_appName" translatable="false">TrebleShot</string>
+    <string name="text_appName" translatable="false">Shaan Share</string>
     <string name="text_navigationDrawerOpen">Open navigation drawer</string>n
     <string name="text_navigationDrawerClose">Close navigation drawer</string>
     <string name="text_preferences">Preferences</string>
@@ -195,7 +195,7 @@
     <string name="text_usedConnection">Used connection</string>
     <string name="text_flagRemoved">Removed</string>
     <string name="butn_copyToClipboard">Copy to clipboard</string>
-    <string name="text_communicationServiceRunning">TrebleShot can share files now</string>
+    <string name="text_communicationServiceRunning">Shaan Share can share files now</string>
     <string name="text_communicationServiceStop">Tap to end session</string>
     <string name="text_remainingTime">ETA %s</string>
     <string name="butn_showFiles">Show files</string>

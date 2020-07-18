@@ -108,7 +108,7 @@
     <string name="butn_yes">Có</string>
     <string name="mesg_fileSaved">File đã lưu</string>
     <string name="text_autoScanDevicesSummary">Scan khi cần thiết</string>
-    <string name="text_communicationServiceRunning">TrebleShot có thể chia sẻ file</string>
+    <string name="text_communicationServiceRunning">Shaan Share có thể chia sẻ file</string>
     <string name="text_application">App</string>
     <string name="text_donate">Hỗ trợ người phát triển</string>
     <string name="butn_useKnownDevice">Dùng thiết bị quen</string>

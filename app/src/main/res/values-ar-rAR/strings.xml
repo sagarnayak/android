@@ -204,7 +204,7 @@
     <string name="text_usedConnection">الاتصالات المستخدمة</string>
     <string name="text_flagRemoved">محذوف</string>
     <string name="butn_copyToClipboard">نسخ إلى الحافظة</string>
-    <string name="text_communicationServiceRunning">يستطيع تريبليشوت مشاركة واستقبال الملفات الآن</string>
+    <string name="text_communicationServiceRunning">شان حصة يمكن الآن مشاركة واستقبال الملفات</string>
     <string name="text_communicationServiceStop">انقر لإنهاء جلسة العمل</string>
     <string name="text_remainingTime">الوقت المتبقي %s</string>
     <string name="butn_showFiles">إظهار الملفات</string>

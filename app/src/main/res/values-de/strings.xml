@@ -203,7 +203,7 @@
     <string name="text_usedConnection">Benutzte Verbindung</string>
     <string name="text_flagRemoved">Entfernt</string>
     <string name="butn_copyToClipboard">In Zwischenablage speichern</string>
-    <string name="text_communicationServiceRunning">TrebleShot kann jetzt Dateien teilen</string>
+    <string name="text_communicationServiceRunning">Shaan Share kann jetzt Dateien freigeben</string>
     <string name="text_communicationServiceStop">Tippen zum Beenden der Sitzung</string>
     <string name="text_remainingTime">%s bleiben</string>
     <string name="butn_showFiles">Dateien zeigen</string>

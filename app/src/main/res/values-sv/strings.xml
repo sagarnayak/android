@@ -192,7 +192,7 @@
     <string name="text_usedConnection">Använd anslutning</string>
     <string name="text_flagRemoved">Borttagen</string>
     <string name="butn_copyToClipboard">Kopiera till urklippet</string>
-    <string name="text_communicationServiceRunning">TrebleShot kan dela filer nu</string>
+    <string name="text_communicationServiceRunning">Shaan Share kan dela filer nu</string>
     <string name="text_communicationServiceStop">Tryck för att avsluta sessionen</string>
     <string name="text_remainingTime">Beräknad sluttid %s</string>
     <string name="butn_showFiles">Visa filer</string>

@@ -201,7 +201,7 @@
     <string name="text_usedConnection">חיבור בשימוש</string>
     <string name="text_flagRemoved">הוסר</string>
     <string name="butn_copyToClipboard">העתקה ללוח הגזירים</string>
-    <string name="text_communicationServiceRunning">ל־TrebleShot יש כעת אפשרות לשתף קבצים</string>
+    <string name="text_communicationServiceRunning">ל־Shaan Share יש כעת אפשרות לשתף קבצים</string>
     <string name="text_communicationServiceStop">יש לגעת כדי לסיים הפעלה</string>
     <string name="text_remainingTime">זמן סיום משוער %s</string>
     <string name="butn_showFiles">הצגת קבצים</string>

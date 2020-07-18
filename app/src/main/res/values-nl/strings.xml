@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="text_appName">TrebleShot</string>
+    <string name="text_appName">Shaan Share</string>
     <string name="text_navigationDrawerOpen">Navigatiemenu openen</string>
     <string name="text_navigationDrawerClose">Navigatiemenu sluiten</string>
     <string name="text_preferences">Instellingen</string>
@@ -226,7 +226,7 @@
     <string name="text_requestPermissionReadPhoneStateSummary">TrebleShot heeft toegang nodig tot het serienummer van je apparaat, zodat er een langetermijnsnummer kan worden gecreëerd. Dit helpt andere apparaten om jouw apparaat te herkennen.</string>
     <string name="text_flagRemoved">Verwijderd</string>
     <string name="butn_copyToClipboard">Kopiëren naar klembord</string>
-    <string name="text_communicationServiceRunning">TrebleShot kan nu bestanden delen</string>
+    <string name="text_communicationServiceRunning">Shaan Share kan nu bestanden delen</string>
     <string name="text_communicationServiceStop">Raak aan om sessie te beëindigen</string>
     <string name="text_reaminingTime">Verwacht over %s</string>
     <string name="butn_showFiles">Bestanden tonen</string>

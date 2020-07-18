@@ -212,7 +212,7 @@
     <string name="text_usedConnection">使用过的连接</string>
     <string name="text_flagRemoved">已移除</string>
     <string name="butn_copyToClipboard">复制到剪贴板</string>
-    <string name="text_communicationServiceRunning">TrebleShot可以分享文件了</string>
+    <string name="text_communicationServiceRunning">Shaan Share可以分享文件了</string>
     <string name="text_communicationServiceStop">轻触以停止</string>
     <string name="text_remainingTime">剩余时间 %s</string>
     <string name="butn_showFiles">显示文件</string>

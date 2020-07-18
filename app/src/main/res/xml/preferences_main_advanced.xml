@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
     <PreferenceCategory android:title="@string/text_advanced">
         <CheckBoxPreference
             android:defaultValue="true"
@@ -23,7 +24,8 @@
             android:defaultValue="false"
             android:key="developer_mode"
             android:summary="@string/text_developerModeSummary"
-            android:title="@string/text_developerMode" />
+            android:title="@string/text_developerMode"
+            app:isPreferenceVisible="false" />
 
         <CheckBoxPreference
             android:defaultValue="false"

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="text_appName">TrebleShot</string>
+    <string name="text_appName">Shaan Share</string>
     <string name="text_preferences">Настройки</string>
     <string name="mesg_loading">Загрузка…</string>
     <string name="butn_accept">Принять</string>
@@ -146,7 +146,7 @@
     <string name="text_requestPermissionReadPhoneState">Разрешение на чтение состояния телефона</string>
     <string name="mesg_notEnoughSpace">Недостаточно свободного места</string>
     <string name="butn_copyToClipboard">Копировать в буфер обмена</string>
-    <string name="text_communicationServiceRunning">TrebleShot сейчас может обмениваться файлами</string>
+    <string name="text_communicationServiceRunning">Shaan Share сейчас может обмениваться файлами</string>
     <string name="text_communicationServiceStop">Нажмите, чтобы закончить сессию</string>
     <string name="butn_showFiles">Показать файлы</string>
     <string name="butn_turnTrustZoneOn">Включить TrustZone</string>
