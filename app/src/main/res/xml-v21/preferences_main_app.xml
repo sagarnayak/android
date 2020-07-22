@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
     <PreferenceCategory android:title="@string/text_application">
-        <EditTextPreference
-            android:dialogTitle="@string/text_deviceNameTitle"
-            android:inputType="text"
-            android:key="device_name"
-            android:maxLength="32"
-            android:summary="@string/text_deviceNameSummary"
-            android:title="@string/text_deviceName" />
-
         <CheckBoxPreference
             android:defaultValue="false"
             android:icon="@drawable/ic_palette_white_24dp"
@@ -18,8 +11,8 @@
             android:title="@string/text_applyDarkTheme" />
 
         <CheckBoxPreference
-            android:dependency="dark_theme"
             android:defaultValue="false"
+            android:dependency="dark_theme"
             android:icon="@drawable/ic_invert_colors_black_24dp"
             android:key="amoled_theme"
             android:summary="@string/text_amoledOptimizedBlackThemeSummary"
@@ -38,19 +31,30 @@
             android:icon="@drawable/ic_vpn_key_white_24dp"
             android:key="trust_always"
             android:summary="@string/text_trustZoneEnabledSummary"
-            android:title="@string/text_trustZoneEnabled" />
+            android:title="@string/text_trustZoneEnabled"
+            app:isPreferenceVisible="false" />
 
         <CheckBoxPreference
             android:defaultValue="false"
             android:key="hotspot_trust"
             android:summary="@string/text_hotspotStartsTrustZoneSummary"
-            android:title="@string/text_hotspotStartsTrustZone" />
+            android:title="@string/text_hotspotStartsTrustZone"
+            app:isPreferenceVisible="false" />
 
         <CheckBoxPreference
             android:defaultValue="true"
             android:key="qr_trust"
             android:summary="@string/text_qrAllowTrustZoneSummary"
-            android:title="@string/text_qrAllowTrustZone" />
+            android:title="@string/text_qrAllowTrustZone"
+            app:isPreferenceVisible="false" />
+
+        <EditTextPreference
+            android:dialogTitle="@string/text_deviceNameTitle"
+            android:inputType="text"
+            android:key="device_name"
+            android:maxLength="32"
+            android:summary="@string/text_deviceNameSummary"
+            android:title="@string/text_deviceName" />
 
         <PreferenceScreen
             android:icon="@drawable/ic_save_white_24dp"

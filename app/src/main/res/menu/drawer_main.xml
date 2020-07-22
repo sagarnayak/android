@@ -57,6 +57,7 @@
             android:id="@+id/menu_activity_trustzone"
             android:icon="@drawable/ic_compare_arrows_white_24dp"
             android:orderInCategory="15"
+            android:visible="false"
             android:title="@string/butn_turnTrustZoneOff" />
 
     </group>

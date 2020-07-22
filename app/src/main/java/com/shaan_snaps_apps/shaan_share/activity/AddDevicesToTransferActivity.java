@@ -107,6 +107,8 @@ public class AddDevicesToTransferActivity extends Activity
         }
 
         resetStatusViews();
+
+        startConnectionManagerActivity();
     }
 
     @Override

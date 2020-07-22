@@ -12,9 +12,9 @@
     <string name="text_sortByName">Tên</string>
     <string name="text_fileStatus">Trạng thái file</string>
     <string name="mesg_noPendingTransferObjectExists">Chuyển file hoàn tất. Để chuyển tiếp file bị gián đoan, chọn \"Tiếp tục nhận\".</string>
-    <string name="mesg_hotspotCreatedInfo">Kết nối với \"%s\" trong \"Tuỳ chọn Wi-fi\" hoặc gửi file qua \"%s\" trong TrebleShot</string>
+    <string name="mesg_hotspotCreatedInfo">Kết nối với \"%s\" trong \"Tuỳ chọn Wi-fi\" hoặc gửi file qua \"%s\" trong Shaan Share</string>
     <string name="text_chooseFolder">Chọn thư mục</string>
-    <string name="mesg_versionUpdatedChangelog">TrebleShot đã cập nhật, bạn có muốn xem những thay đổi mới không\?</string>
+    <string name="mesg_versionUpdatedChangelog">Shaan Share đã cập nhật, bạn có muốn xem những thay đổi mới không\?</string>
     <string name="butn_close">Đóng</string>
     <string name="butn_singleRow">Một hàng</string>
     <string name="butn_proceed">Tiến hành</string>
@@ -22,7 +22,7 @@
     <string name="text_useVibration">Rung và hiện thông báo phía trên</string>
     <string name="butn_disconnect">Ngắt kết nối</string>
     <string name="text_advanced">Nâng cao</string>
-    <string name="text_requestPermissionStorageSummary">Quyền này cho phép TrebleShot đọc và viết vào bộ nhớ để nhận và chuyển file.</string>
+    <string name="text_requestPermissionStorageSummary">Quyền này cho phép Shaan Share đọc và viết vào bộ nhớ để nhận và chuyển file.</string>
     <string name="mesg_organizingFiles">Sắp xếp file</string>
     <string name="butn_scan">Scan</string>
     <string name="ques_why">Tại sao\?</string>
@@ -87,7 +87,7 @@
     <string name="text_monthCountShort">%d thg</string>
     <string name="text_killServiceAfterLeaving">Tắt app sẽ tắt luôn dịch vụ</string>
     <string name="text_fileMime">Loại file</string>
-    <string name="mesg_errorHotspotPermission">TrebleShot cần quyền để tạo hotspot</string>
+    <string name="mesg_errorHotspotPermission">Shaan Share cần quyền để tạo hotspot</string>
     <string name="text_autoStartSummary">Kích hoạt liên lạc khi phát hiện kết nối mới</string>
     <string name="text_connectionHelp">Chọn phương thức kết nối với thiết bị chủ. Ví dụ, nếu thiết bị đó hiện ra mã QR, chọn Scan mã QR.</string>
     <string name="text_listEmptyApp">Không có app</string>
@@ -147,11 +147,11 @@
     <string name="text_qrCodeAvailableHelp">Scan mã này để chia sẻ và kết nối thiết bị</string>
     <string name="butn_stopHotspot">Tắt hotspot</string>
     <string name="text_listEmptyMusic">Không có bài hát</string>
-    <string name="mesg_connectingToSelfHotspot">Đang kết nối với hotspot TrebleShot</string>
+    <string name="mesg_connectingToSelfHotspot">Đang kết nối với hotspot Shaan Share</string>
     <string name="text_listEmptyFiles">Không có file</string>
     <string name="butn_start">Bắt đầu</string>
     <string name="butn_uncheck">Bỏ tích</string>
-    <string name="text_linkTrebleshot">Chia sẻ qua TrebleShot! Tải ở đây: %s</string>
+    <string name="text_linkTrebleshot">Chia sẻ qua Shaan Share! Tải ở đây: %s</string>
     <string name="mesg_folderCreateError">Không tạo được thư mục</string>
     <string name="text_trebleshotHotspotDescription">Bạn có thể gửi file trưc tiếp qua mạng được mở bởi một thiết bị TrebleShot khác.</string>
     <string name="text_trustZoneDeviceNotice">Tự động nhận file khi TrustZone đang bật</string>
@@ -191,7 +191,7 @@
     <string name="text_about">Thông tin</string>
     <string name="mesg_noInternetConnection">Cần kết nối mạng</string>
     <string name="text_applyDarkThemeSummary">Dùng chủ đề ban đêm</string>
-    <string name="mesg_stoppingSelfHotspot">Đang tắt hotspot TrebleShot</string>
+    <string name="mesg_stoppingSelfHotspot">Đang tắt hotspot Shaan Share</string>
     <string name="mesg_connectToWiFiNetworkHelp">Kết nối với mạng Wi-Fi để tiếp tục</string>
     <string name="butn_show">Hiện</string>
     <string name="text_emptySearchResult">Không có kết quả nào cho \"%s\"</string>
@@ -211,7 +211,7 @@
     <string name="text_developerMode">Chế độ nhà phát triển</string>
     <string name="text_networkServiceDiscovery">Bật Phát hiện dịch vụ mạng (NSD)</string>
     <string name="mesg_connectionProblem">Kết nối gặp vấn đề</string>
-    <string name="text_dowloadTrebleshotAndroid">Tải TrebleShot cho Android</string>
+    <string name="text_dowloadTrebleshotAndroid">Tải Shaan Share cho Android</string>
     <string name="text_communicationServiceStop">Nhấn để kết thúc phiên chuyển</string>
     <string name="text_chooseFile">Chọn file</string>
     <string name="text_textMillisecond">%d ms</string>
@@ -219,13 +219,13 @@
     <string name="ques_copyToClipboard">Copy vào clipboard\?</string>
     <string name="text_location">Vị trí</string>
     <string name="mesg_clipboardUpdateNotice">Chỉnh sửa văn bản hoặc nhấn lần nữa để thoát</string>
-    <string name="text_trebleshotHotspot">Hotspot TrebleShot</string>
+    <string name="text_trebleshotHotspot">Hotspot Shaan Share</string>
     <string name="text_taskCompleted">Tác vụ hoàn thành</string>
-    <string name="mesg_scanningSelfHotspot">Đang tìm hotspot TrebleShot</string>
+    <string name="mesg_scanningSelfHotspot">Đang tìm hotspot Shaan Share</string>
     <string name="butn_exit">Thoát</string>
     <string name="ques_resetToDefault">Quay về cài đặt mặc định\?</string>
     <string name="mesg_providerNotAllowedError">Các app khác không thể dùng thư mục mặc định</string>
-    <string name="mesg_scanningDevicesSelfHotspot">Đang tìm thiết bị qua hotspot TrebleShot</string>
+    <string name="mesg_scanningDevicesSelfHotspot">Đang tìm thiết bị qua hotspot Shaan Share</string>
     <string name="butn_cancelReceiving">Ngưng nhận</string>
     <string name="text_interfaceWifiDirect">Wi-Fi Direct</string>
     <string name="text_fileExplorer">Quản lý file</string>
@@ -249,7 +249,7 @@
     <string name="text_autoStart">Tự động kết nối</string>
     <string name="mesg_fileAlreadyExists">File đã tồn tại sẵn</string>
     <string name="text_transfers">Lượt chuyển</string>
-    <string name="mesg_suggestSelfHotspot">Bạn có thể bật Wi-fi để tìm hotspot TrebleShot</string>
+    <string name="mesg_suggestSelfHotspot">Bạn có thể bật Wi-fi để tìm hotspot Shaan Share</string>
     <string name="text_contributors">Với sự giúp đỡ của</string>
     <string name="text_developerModeSummary">Vô hiệu hoá tuỳ chọn người dùng</string>
     <string name="mesg_connectionFailure">Kết nối không thành công</string>
@@ -267,7 +267,7 @@
     <string name="text_workerService">Dịch vụ công tác</string>
     <string name="butn_refresh">Cập nhật</string>
     <string name="mesg_notAllowed">Không được cho phép</string>
-    <string name="mesg_locationPermissionRequiredSelfHotspot">Cho phép TrebleShot tìm và tạo hotspot</string>
+    <string name="mesg_locationPermissionRequiredSelfHotspot">Cho phép Shaan Share tìm và tạo hotspot</string>
     <string name="text_stopping">Đang dừng!</string>
     <string name="butn_search">Tìm kiếm</string>
     <string name="mesg_wifiEnableFailed">Bật Wi-Fi không thành công.</string>
@@ -292,7 +292,7 @@
     <string name="text_networkServiceDiscoverySummary">NSD giúp thiết bị dễ tìm hơn</string>
     <string name="butn_help">Trợ giúp</string>
     <string name="text_deviceNameSummary">Tên này sẽ hiện trên các thiết bị khác</string>
-    <string name="mesg_startingSelfHotspot">Đang bật hotspot TrebleShot</string>
+    <string name="mesg_startingSelfHotspot">Đang bật hotspot Shaan Share</string>
     <string name="text_communicationService">Dịch vụ liên lạc</string>
     <string name="butn_change">Thay đổi</string>
     <string name="butn_turnTrustZoneOn">Bật TrustZone</string>
@@ -361,10 +361,10 @@
     <string name="butn_rename">Đổi tên</string>
     <string name="text_network">Mạng</string>
     <string name="butn_pause">Tạm dừng</string>
-    <string name="text_automaticNetworkConnectionFailed">Không thể kết nối với thiết bị. Địa chỉ của nó có thể đã thay đổi. Thử kết nối lại vào mạng khi TrebleShot đang chạy.</string>
+    <string name="text_automaticNetworkConnectionFailed">Không thể kết nối với thiết bị. Địa chỉ của nó có thể đã thay đổi. Thử kết nối lại vào mạng khi Shaan Share đang chạy.</string>
     <string name="butn_open">Mở</string>
     <string name="text_unknown">Không biết</string>
-    <string name="butn_shareWithTrebleshot">Chia sẻ qua TrebleShot</string>
+    <string name="butn_shareWithTrebleshot">Chia sẻ qua Shaan Share</string>
     <string name="text_amoledOptimizedBlackThemeSummary">Dùng màu tối</string>
     <string name="butn_shareTrebleshot">Chia sẻ app này</string>
     <string name="butn_reject">Từ chối</string>
@@ -382,7 +382,7 @@
     <string name="ques_removeQueue">Xoá lượt chuyển\?</string>
     <string name="butn_seeSourceCode">Xem mã nguồn</string>
     <string name="text_pendingTransfers">File đang chuyển</string>
-    <string name="text_requestPermissionReadPhoneStateSummary">TrebleShot cần biết số sêri của thiết bị bạn để tạo số định danh dài hạn, giúp các thiết bị khác nhận diện bạn</string>
+    <string name="text_requestPermissionReadPhoneStateSummary">Shaan Share cần biết số sêri của thiết bị bạn để tạo số định danh dài hạn, giúp các thiết bị khác nhận diện bạn</string>
     <string name="text_shortcut">Lối tắt</string>
     <string name="butn_delete">Xoá</string>
     <string name="mesg_secureExit">Nhấn một lần nữa để thoát</string>
@@ -410,7 +410,7 @@
     <string name="butn_addDevices">Thêm thiết bị</string>
     <string name="butn_block">Chặn</string>
     <string name="text_noDeviceForTransfer">Không có thiết bị nào cho lượt chuyển này</string>
-    <string name="mesg_retryReceivingNotice">TrebleShot sẽ thử tiếp tục nhận file bị gián đoạn</string>
+    <string name="mesg_retryReceivingNotice">Shaan Share sẽ thử tiếp tục nhận file bị gián đoạn</string>
     <string name="text_groupByDate">Ngày</string>
     <string name="text_sendText">Gửi văn bản</string>
     <string name="butn_connect">Kết nối</string>

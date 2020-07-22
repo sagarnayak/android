@@ -94,7 +94,7 @@ public class HomeActivity
             highlightUpdater(getDefaultPreferences().getString("availableVersion", null));
 
         if (!AppUtils.isLatestChangeLogSeen(this)) {
-            new AlertDialog.Builder(this)
+            /*new AlertDialog.Builder(this)
                     .setMessage(R.string.mesg_versionUpdatedChangelog)
                     .setPositiveButton(R.string.butn_yes, new DialogInterface.OnClickListener()
                     {
@@ -124,7 +124,7 @@ public class HomeActivity
                             Toast.makeText(HomeActivity.this, R.string.mesg_versionUpdatedChangelogRejected, Toast.LENGTH_SHORT).show();
                         }
                     })
-                    .show();
+                    .show();*/
         }
 
         /*if (Keyword.Flavor.googlePlay.equals(AppUtils.getBuildFlavor())) {

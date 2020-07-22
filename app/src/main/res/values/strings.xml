@@ -10,7 +10,7 @@
     <string name="text_appName" translatable="false">Shaan Share</string>
     <string name="text_navigationDrawerOpen">Open navigation drawer</string>n
     <string name="text_navigationDrawerClose">Close navigation drawer</string>
-    <string name="text_preferences">Preferences</string>
+    <string name="text_preferences">Settings</string>
     <string name="mesg_connectionFailure">Connection failed</string>
     <string name="mesg_noNetwork">No connection such as Wi-Fi to find nearby devices</string>
     <string name="mesg_scanningDevices">Finding nearby devices</string>
@@ -27,7 +27,7 @@
     <string name="text_listEmpty">No items</string>
     <string name="text_developerMode">Developer mode</string>
     <string name="text_developerModeSummary">Disables the user configuration</string>
-    <string name="text_deviceName">Device name</string>
+    <string name="text_deviceName">Edit Device name</string>
     <string name="text_deviceNameSummary">This name will be shown on other devices</string>
     <string name="text_deviceNameTitle">Enter a device name</string>
     <string name="mesg_formatNotSupported">Unsupported format</string>
@@ -45,19 +45,19 @@
     <string name="text_deleteConfirm">Confirm deletion</string>
     <string name="butn_cancel">Cancel</string>
     <string name="butn_refresh">Refresh</string>
-    <string name="butn_shareTrebleshot">Share this app</string>
+    <string name="butn_shareTrebleshot">Share if you Care</string>
     <string name="text_about">About</string>
     <string name="butn_close">Close</string>
     <string name="text_deviceModelInfo">Device name</string>
     <string name="butn_clearQueue">Clear the queue</string>
-    <string name="butn_shareWithTrebleshot">Share with TrebleShot</string>
+    <string name="butn_shareWithTrebleshot">Share with Shaan Share</string>
     <string name="mesg_somethingWentWrong">Something went wrong</string>
     <string name="text_findDevicesHint">No familiar devices</string>
     <string name="text_autoScanDevices">Scan devices automatically</string>
     <string name="text_autoScanDevicesSummary">Scans devices when necessary</string>
     <string name="mesg_stillScanning">Still scanning</string>
     <string name="text_advanced">Advanced</string>
-    <string name="text_storagePath">Storage path</string>
+    <string name="text_storagePath">File Storage</string>
     <string name="text_storagePathSummary">New files will be saved to this folder</string>
     <string name="mesg_pathUnavailable">%s currently unavailable</string>
     <string name="text_ipAddress">IP address</string>
@@ -79,9 +79,9 @@
     <string name="text_image">Image</string>
     <string name="text_music">Music</string>
     <string name="text_video">Video</string>
-    <string name="text_showSystemApps">Show system apps</string>
+    <string name="text_showSystemApps">System apps</string>
     <string name="text_showSystemAppsSummary">Show system apps in \"Share\" section</string>
-    <string name="butn_showSystemApps">Show system apps</string>
+    <string name="butn_showSystemApps">System apps</string>
     <string name="mesg_notAllowed">You are not allowed</string>
     <string name="mesg_connectionProblem">Connection problem</string>
     <string name="butn_multiSelect">Multi selection</string>
@@ -137,7 +137,7 @@
     <string name="text_createFolder">Create folder</string>
     <string name="mesg_fileAlreadyExists">File already exists</string>
     <string name="mesg_folderCreateError">Folder could not be created</string>
-    <string name="text_requestPermissionStorageSummary">This permission allows TrebleShot to read and write to your device\'s storage for receiving and sharing files.</string>
+    <string name="text_requestPermissionStorageSummary">This permission allows Shaan Share to read and write to your device\'s storage for receiving and sharing files.</string>
     <string name="butn_settings">Settings</string>
     <string name="butn_selectThis">Select this</string>
     <string name="butn_newFile">New file</string>
@@ -154,7 +154,7 @@
     <string name="text_fileStatus">File status</string>
     <string name="butn_resume">Resume</string>
     <string name="text_transactionDetails">Details</string>
-    <string name="text_fileExplorer">File explorer</string>
+    <string name="text_fileExplorer">File Manager</string>
     <string name="butn_createFolder">Create folder</string>
     <string name="text_chooseFolder">Choose folder</string>
     <string name="text_chooseFile">Choose file</string>
@@ -186,7 +186,7 @@
     <string name="text_permissionRequest">Permission request</string>
     <string name="text_requestPermissionStorage">Storage permission</string>
     <string name="text_requestPermissionReadPhoneState">Permission to read phone state</string>
-    <string name="text_requestPermissionReadPhoneStateSummary">TrebleShot needs to access your device\'s serial number to create a long-term identity number, helping other devices recognize you</string>
+    <string name="text_requestPermissionReadPhoneStateSummary">Shaan Share needs to access your device\'s serial number to create a long-term identity number, helping other devices recognize you</string>
     <string name="text_mediaDirectory">Media directory</string>
     <string name="text_emulatedMediaDirectory">Emulated (%s)</string>
     <string name="mesg_notEnoughSpace">Not enough space</string>
@@ -228,8 +228,8 @@
     <string name="butn_locationSettings">Location</string>
     <string name="mesg_locationDisabledSelfHotspot">Enable location service to see scan results and create hotspot</string>
     <string name="mesg_scanningDevicesSelfHotspot">Looking for devices over a TrebleShot hotspot</string>
-    <string name="mesg_stoppingSelfHotspot">Stopping the TrebleShot hotspot</string>
-    <string name="mesg_startingSelfHotspot">Starting the TrebleShot hotspot</string>
+    <string name="mesg_stoppingSelfHotspot">Stopping the Shaaan Share hotspot</string>
+    <string name="mesg_startingSelfHotspot">Starting the Shaaan Share hotspot</string>
     <string name="butn_check">Check</string>
     <string name="butn_uncheck">Uncheck</string>
     <string name="text_previewAndEditList">Preview &amp; edit</string>
@@ -271,7 +271,7 @@
     <string name="text_taskCompleted">Task completed</string>
     <string name="text_deletingFilesOngoing">Deleting selected files</string>
     <string name="text_taskOngoing">Ongoing task</string>
-    <string name="text_networkServiceDiscovery">Enable NSD</string>
+    <string name="text_networkServiceDiscovery">Network Service Discovery</string>
     <string name="text_networkServiceDiscoverySummary">Network Service Discovery improves discoverability</string>
     <string name="text_notificationChannelHigh">Important notifications</string>
     <string name="text_notificationChannelLow">Low priority notifications</string>
@@ -282,7 +282,7 @@
     <string name="text_hourCountShort">%d hr</string>
     <string name="text_minuteCountShort">%d min</string>
     <string name="text_secondCountShort">%d sec</string>
-    <string name="butn_exit">Exit</string>
+    <string name="butn_exit">Quit App</string>
     <string name="butn_queueCounted">Queue (%d)</string>
     <string name="mesg_updateDownloadComplete">Update received successfully and saved to your received files</string>
     <string name="text_listEmptyFiles">No files here</string>
@@ -309,7 +309,7 @@
     <string name="butn_qrScanToSend">Scan QR code to send</string>
     <string name="butn_qrToggle">Toggle QR code visibility</string>
     <string name="text_notificationSettingsSummary">Open notification settings</string>
-    <string name="text_notificationSettings">Notification settings</string>
+    <string name="text_notificationSettings">Notification</string>
     <string name="text_renameMultipleItems">Rename multiple items</string>
     <string name="text_rename">Rename</string>
     <string name="butn_rename">Rename</string>
@@ -363,16 +363,16 @@
 \n%s</string>
     <string name="butn_changelog">Changelog</string>
     <string name="text_changelog">Changelog</string>
-    <string name="mesg_versionUpdatedChangelog">You have updated TrebleShot, would you like to see what\'s new\?</string>
+    <string name="mesg_versionUpdatedChangelog">You have updated Shaan Share, would you like to see what\'s new\?</string>
     <string name="mesg_versionUpdatedChangelogRejected">You can always find \'Changelog\' in the \'About\' section</string>
     <string name="mesg_noInternetConnection">This requires internet connection</string>
-    <string name="text_applyDarkTheme">Dark mode</string>
+    <string name="text_applyDarkTheme">Dark Theme</string>
     <string name="text_applyDarkThemeSummary">Use the dark style theme</string>
     <string name="butn_allow">Allow</string>
     <string name="butn_telegram_channel">Telegram channel</string>
     <string name="mode_middleDot" translatable="false"> · </string>
     <string name="text_listEmptyTransfer">All transfers appear here</string>
-    <string name="text_transfers">Transfers</string>
+    <string name="text_transfers">File Transfer</string>
     <string name="butn_connectionDetails">Connections details</string>
     <string name="butn_useKnownDevice">Use known devices</string>
     <string name="butn_scanQrCode">Scan QR Code</string>
@@ -404,9 +404,9 @@
     <string name="ques_connectionWizardUseKnownDevices">Do you want to access your previously contacted devices?</string>
     <string name="butn_yes">Yes</string>
     <string name="butn_no">No</string>
-    <string name="text_loadThumbnails">Load thumbnails</string>
+    <string name="text_loadThumbnails">Thumbnails</string>
     <string name="text_loadThumbnailsSummary">Show thumbnails for files</string>
-    <string name="text_manageDevices">Manage devices</string>
+    <string name="text_manageDevices">All devices</string>
     <string name="text_search">Search</string>
     <string name="mesg_wifiEnableFailed">Wi-Fi won\'t turn on.</string>
     <string name="mesg_turningWiFiOn">Turning Wi-Fi on</string>
@@ -439,7 +439,7 @@
     <string name="const_text_useAppFonts">Apply the recommended font</string>
     <string name="const_text_useAppFontsSummary">Use the supplied custom font</string>
     <string name="mesg_waiting">Waiting</string>
-    <string name="text_amoledOptimizedBlackTheme">Optimize for AMOLED Screens</string>
+    <string name="text_amoledOptimizedBlackTheme">AMOLED Screens</string>
     <string name="text_amoledOptimizedBlackThemeSummary">Use darker colors</string>
     <string name="mesg_errorNotTrustZoneDevice">This device needs to be set as TrustZone device on the receiver device to do this operation.</string>
     <string name="butn_enterIpAddress">Enter IP Address</string>
@@ -461,7 +461,7 @@
     <string name="ques_shareAsApkOrLink">Share as APK or link?</string>
     <string name="butn_asApk">As APK</string>
     <string name="butn_asLink">As a link</string>
-    <string name="text_linkTrebleshot">Share files with TrebleShot! Download here: %s</string>
+    <string name="text_linkTrebleshot">Share files with Shaan Share! Download here: %s</string>
     <string name="butn_downloadAllAsZip">Download all as ZIP (single, uncompressed)</string>
     <string name="text_interfaceVPN">VPN Server</string>
     <string name="text_unrecognizedQrCode">Unrecognized code</string>

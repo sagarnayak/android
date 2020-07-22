@@ -44,7 +44,7 @@
     <string name="butn_close">மூடு</string>
     <string name="text_deviceModelInfo">சாதனத்தின் பெயர்</string>
     <string name="butn_clearQueue">வரிசையை அழி</string>
-    <string name="butn_shareWithTrebleshot">TrebleShot மூலம் பகிரவும்</string>
+    <string name="butn_shareWithTrebleshot">Shaan Share மூலம் பகிரவும்</string>
     <string name="mesg_somethingWentWrong">ஏதோ தவறு நடந்துவிட்டது</string>
     <string name="text_findDevicesHint">தெரிந்த சாதனங்கள் இல்லை</string>
     <string name="text_autoScanDevices">சாதனங்களை தானே ஸ்கேன் செய்யவும்</string>

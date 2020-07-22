@@ -48,7 +48,7 @@
     <string name="butn_clearQueue">Limpar a fila</string>
     <string name="text_pendingTransfersOfDevice">Fila pendente - %s</string>
     <string name="butn_pendingTransfers">Fila</string>
-    <string name="butn_shareWithTrebleshot">Compartilhar com o TrebleShot</string>
+    <string name="butn_shareWithTrebleshot">Compartilhar com o Shaan Share</string>
     <string name="mesg_somethingWentWrong">Algo deu errado</string>
     <string name="text_findDevicesHint">Nenhum dispositivo conhecido</string>
     <string name="text_autoScanDevices">Procurar por dispositivos automaticamente</string>
@@ -144,7 +144,7 @@
     <string name="text_createFolder">Criar pasta</string>
     <string name="mesg_fileAlreadyExists">O arquivo já existe</string>
     <string name="mesg_folderCreateError">A pasta não pôde ser criada</string>
-    <string name="text_requestPermissionStorageSummary">Isto permite que o TrebleShot leia e grave no armazenamento do seu dispositivo, para receber e compartilhar arquivos.</string>
+    <string name="text_requestPermissionStorageSummary">Isto permite que o Shaan Share leia e grave no armazenamento do seu dispositivo, para receber e compartilhar arquivos.</string>
     <string name="butn_settings">Configurações</string>
     <string name="butn_selectThis">Selecionar isto</string>
     <string name="butn_newFile">Novo arquivo</string>
@@ -189,14 +189,14 @@
     <string name="text_interfaceUnknown">Conexão desconhecida</string>
     <string name="text_shareTextShort">Texto</string>
     <string name="butn_connectionList">Conexões</string>
-    <string name="text_automaticNetworkConnectionFailed">Não foi possível conectar o dispositivo. O endereço pode ter mudado. Tente se reconectar à rede enquanto o TrebleShot estiver aberto.</string>
+    <string name="text_automaticNetworkConnectionFailed">Não foi possível conectar o dispositivo. O endereço pode ter mudado. Tente se reconectar à rede enquanto o Shaan Share estiver aberto.</string>
     <string name="text_automaticNetworkConnectionOngoing">Escolhendo a melhor conexão</string>
     <string name="butn_retryReceiving">Tentar receber novamente</string>
     <string name="butn_ask">Perguntar</string>
     <string name="text_permissionRequest">Solicitação de permissão</string>
     <string name="text_requestPermissionStorage">Permissão de armazenamento</string>
     <string name="text_requestPermissionReadPhoneState">Permissão para ler o estado do telefone</string>
-    <string name="text_requestPermissionReadPhoneStateSummary">O TrebleShot precisa acessar o número de série do seu dispositivo para criar um número de identidade de longo prazo, ajudando outros dispositivos a reconhecê-lo</string>
+    <string name="text_requestPermissionReadPhoneStateSummary">O Shaan Share precisa acessar o número de série do seu dispositivo para criar um número de identidade de longo prazo, ajudando outros dispositivos a reconhecê-lo</string>
     <string name="text_mediaDirectory">Pasta de mídia</string>
     <string name="text_emulatedMediaDirectory">Emulated (%s)</string>
     <string name="mesg_notEnoughSpace">Espaço insuficiente</string>
@@ -223,7 +223,7 @@
     <string name="mesg_textShareLimit">Apenas um texto pode ser compartilhado por vez</string>
     <string name="text_timeJustNow">Agora mesmo</string>
     <string name="mesg_providerNotAllowedError">A pasta padrão não está acessível para outros aplicativos</string>
-    <string name="mesg_errorHotspotPermission">O TrebleShot precisa de permissão para criar um ponto de acesso</string>
+    <string name="mesg_errorHotspotPermission">O Shaan Share precisa de permissão para criar um ponto de acesso</string>
     <string name="text_trebleshotHotspot">Ponto de acesso do TrebleShot</string>
     <string name="text_trebleshotHotspotDescription">Você pode enviar arquivos diretamente através desta rede aberta criada por um dispositivo do TrebleShot nas proximidades.</string>
     <string name="mesg_connectingToSelfHotspot">Conectando-se ao ponto de acesso do TrebleShot</string>

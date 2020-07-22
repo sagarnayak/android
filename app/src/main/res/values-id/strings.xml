@@ -144,7 +144,7 @@
     <string name="text_fileStatus">Status Berkas</string>
     <string name="butn_resume">Lanjutkan</string>
     <string name="text_transactionDetails">Detail</string>
-    <string name="text_fileExplorer">File explorer</string>
+    <string name="text_fileExplorer">File Manager</string>
     <string name="butn_createFolder">Buat folder</string>
     <string name="text_chooseFolder">Pilih folder</string>
     <string name="text_chooseFile">pilih berkas</string>
