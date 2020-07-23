@@ -18,7 +18,7 @@ if (useLocalSigning) {
 }
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 29
     buildToolsVersion '28.0.3'
 
     signingConfigs {
@@ -35,9 +35,9 @@ android {
     defaultConfig {
         applicationId "com.shaan_snaps_apps.shaan_share"
         minSdkVersion 14
-        targetSdkVersion 28
-        versionCode 2
-        versionName "1.0.1"
+        targetSdkVersion 29
+        versionCode 3
+        versionName "1.0.2"
 
         vectorDrawables {
             useSupportLibrary = true
