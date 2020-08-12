@@ -281,7 +281,7 @@ public class AddDevicesToTransferActivity extends Activity
     {
         startActivityForResult(new Intent(AddDevicesToTransferActivity.this, ConnectionManagerActivity.class)
                 .putExtra(ConnectionManagerActivity.EXTRA_ACTIVITY_SUBTITLE, getString(R.string.text_addDevicesToTransfer)), REQUEST_CODE_CHOOSE_DEVICE);
-        finish();
+//        finish();
     }
 
     public void takeOnProcessMode()
